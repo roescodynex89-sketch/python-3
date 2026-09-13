@@ -10,7 +10,4 @@ else:
 
 finally:
  print("Closing the file...")
-
-
-
 # Code to close the file goes here
